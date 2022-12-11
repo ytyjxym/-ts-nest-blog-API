@@ -22,7 +22,7 @@
   "dependencies": {
     "@nestjs/common": "^6.7.2",
     "@nestjs/core": "^6.7.2",
-    "@nestjs/platform-express": "^6.10.11",
+    "@nestjs/platform-express": "^9.2.1",
     "@nestjs/swagger": "^4.0.9",
     "@typegoose/typegoose": "^6.1.7",
     "@types/jsonwebtoken": "^8.3.5",
